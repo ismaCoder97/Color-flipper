@@ -1,2 +1,2 @@
 # Color-flipper Project
- A simple project of switching colors
+ A simple project that switchs colors randomly :D
