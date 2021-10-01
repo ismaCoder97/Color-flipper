@@ -200,6 +200,6 @@ h1 {
 
   .btn-hero:hover{
     color:var(--clr-white);
-    background: var(--clr-bl);
+    background: var(--clr-black);
   } 
 
