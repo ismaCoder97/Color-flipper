@@ -19,7 +19,7 @@ function changeColor(){
 }
 
 
-function getRandomNumber(menor,mayor){
-    return Math.floor(Math.random ()*(mayor-menor+1))+menor;
+function getRandomNumber(min,max){
+    return Math.floor(Math.random ()*(max-min+1))+min;
 }
 
